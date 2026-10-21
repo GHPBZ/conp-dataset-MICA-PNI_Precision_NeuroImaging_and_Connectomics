@@ -3,10 +3,38 @@
     "description": "The MICA-PNI dataset provides raw and anonymized multimodal precision neuroimaging data acquired at ultra-high field strength of 7Tesla, from 10 healthy individual participants. In this release, the dataset include MP2RAGE-derived uni, T1 map, DWI, MT on/off, T2*-weighted imaging and multi-echo resting state, multi-task-based and movie fMRI scans, acquired across three sessions.\n\nPlease cite: \nCabalo, D. G. et al. Multimodal precision MRI of the individual human brain at ultra-high fields. Scientific Data 12, 526 (2025). https://doi.org:10.1038/s41597-025-04863-7",
     "creators": [
         {
-            "name": "Multiple Contributors"
+            "name": "Donna Gift Cabalo"
+        },
+        {
+            "name": "Raul Rodriguez-Cruces"
+        },
+        {
+            "name": "Boris C. Bernhardt"
+        },
+        {
+            "name": "Jordan DeKraker"
+        },
+        {
+            "name": "Jessica Royer"
+        },
+        {
+            "name": "Ilana Leppert"
+        },
+        {
+            "name": "Risa Thevakumaran"
+        },
+        {
+            "name": "Youngeun Hwang"
+        },
+        {
+            "name": "Valeria Kebets"
+        },
+        {
+            "name": "Shahin Tavakol"
         }
     ],
     "version": "2025-09-11T16:24:29.802959",
+    "privacy": "open",
     "types": [
         {
             "information": {
@@ -16,7 +44,7 @@
     ],
     "licenses": [
         {
-            "name": "None"
+            "name": "CC0 1.0 Universal"
         }
     ],
     "keywords": [
@@ -31,7 +59,12 @@
                 "value": "GB"
             },
             "access": {
-                "landingPage": "https://osf.io/mhq3f/"
+                "landingPage": "https://osf.io/mhq3f/",
+                "authorizations": [
+                  {
+                    "value": "public"
+                  }
+                ]
             },
             "formats": [
                 "N/A"
