@@ -1,6 +1,6 @@
 {
     "title": "MICA-PNI: Precision NeuroImaging and Connectomics",
-    "description": "The MICA-PNI dataset provides raw and anonymized multimodal precision neuroimaging data acquired at ultra-high field strength of 7Tesla, from 10 healthy individual participants. In this release, the dataset include MP2RAGE-derived uni, T1 map, DWI, MT on/off, T2*-weighted imaging and multi-echo resting state, multi-task-based and movie fMRI scans, acquired across three sessions.\n\nPlease cite: \nCabalo, D. G. et al. Multimodal precision MRI of the individual human brain at ultra-high fields. Scientific Data 12, 526 (2025). https://doi.org:10.1038/s41597-025-04863-7",
+    "description": "The MICA-PNI dataset provides raw and anonymized multimodal precision neuroimaging data acquired at ultra-high field strength of 7Tesla, from 10 healthy individual participants. In this release, the dataset include MP2RAGE-derived uni, T1 map, DWI, MT on/off, T2*-weighted imaging and multi-echo resting state, multi-task-based and movie fMRI scans, acquired across three sessions.\n\nPlease cite: \nCabalo, D. G. et al. Multimodal precision MRI of the individual human brain at ultra-high fields. Scientific Data 12, 526 (2025). https://doi.org/10.1038/s41597-025-04863-7",
     "creators": [
         {
             "name": "Donna Gift Cabalo"

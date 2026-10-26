@@ -7,7 +7,7 @@ Crawled from [OSF](https://osf.io/mhq3f/)
 The MICA-PNI dataset provides raw and anonymized multimodal precision neuroimaging data acquired at ultra-high field strength of 7Tesla, from 10 healthy individual participants. In this release, the dataset include MP2RAGE-derived uni, T1 map, DWI, MT on/off, T2*-weighted imaging and multi-echo resting state, multi-task-based and movie fMRI scans, acquired across three sessions.
 
 Please cite: 
-Cabalo, D. G. et al. Multimodal precision MRI of the individual human brain at ultra-high fields. Scientific Data 12, 526 (2025). https://doi.org:10.1038/s41597-025-04863-7
+Cabalo, D. G. et al. Multimodal precision MRI of the individual human brain at ultra-high fields. Scientific Data 12, 526 (2025). https://doi.org/10.1038/s41597-025-04863-7
 
 ## Metadata
 - **Total Size**: 470.04 GB
